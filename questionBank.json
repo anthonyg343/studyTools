@@ -1,0 +1,78 @@
+[
+    {
+        "question": "What is the most RAM (in GB) on a 32-bit system?", 
+        "answer": 4
+    },
+    {
+        "question": "True or false: a 64-bit system can handle more than 1,000 GB of RAM.", 
+        "answer": true
+    },
+    {
+        "question": "The core files that makes up an Operating System, outside of programs and device drivers, are called the... what?", 
+        "answer": "kernel"
+    },
+    {
+        "question": "What are the four main sections of the Operating Systems market?", 
+        "answer": "Business Client, Network Operating System, Home Client, Mobile Operating System"
+    },
+    {
+        "question": "Say an impending windows update is labeled the Spring Stoners Update (2004).  What is the Month and Year of the update, in the format 'June 1973'?", 
+        "answer": "April 2020"
+    },
+    {
+        "question": "True or False: Windows 10 Home cannot join a domain.", 
+        "answer": true
+    },
+    {
+        "question": "Fill in: Windows tool to encrypt all information on a disk drive. Not present in Home.", 
+        "answer": "BitLocker"
+    },
+    {
+        "question": "Fill in: Windows tool to apply file or folder level encryption. Not present in Home.", 
+        "answer": "Encrypting File System (EFS)"
+    },
+    {
+        "question": "Fill in: Windows tool to synchronize cached versions of shared folders and assets to reduce WAN traffic. Not present in Home.", 
+        "answer": "BranchCache"
+    },
+    {
+        "question": "How long are standard versions of Windows supported?", 
+        "answer": "5 years standard updates, an extra 5 years of extended upport, meaning just security updates."
+    },
+    {
+        "question": "What is the end of service schedule for Windows10 Feature Updates?", 
+        "answer": "18 months, but Education and Enterprise get 30 months for September updates."
+    },
+    {
+        "question": "What are the iOS and MacOS End of Life policies?", 
+        "answer": "There are no official End of Life policies."
+    },
+    {
+        "question": "True or false: The full path to an object (including any file name and extension) may not usually exceed 100 characters.", 
+        "answer": false
+    },
+    {
+        "question": "True or False: MBR style Partitioning Scheme is limited to 4 Primary Partitions.", 
+        "answer": true
+    },
+    {
+        "question": "How big is a single sector (the smallest unit of storage on a fixed disk, traditionally)?", 
+        "answer": "512 bytes"
+    },
+    {
+        "question": "The New Technology File System (NTFS) is a proprietary file system developed exclusively for use with which operating system?", 
+        "answer": "Windows. Obviously."
+    },
+    {
+        "question": "True or False: Libraries have been hidden by default on every version of Windows since 7.",
+        "answer": true
+    },
+    {
+	    "question": "True or False: The prompt 'C:\Windows\System32' will be displayed if accessing the command prompt as an administrator.",
+	    "answer": true
+    },
+    {
+	    "question": "What is the native Windows Command Prompt command to list files and directories?",
+	    "answer": "DIR"
+    }
+]
