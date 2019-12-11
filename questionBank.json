@@ -49,7 +49,7 @@
     },
     {
         "question": "True or false: The full path to an object (including any file name and extension) may not usually exceed 100 characters.", 
-        "answer": false
+        "answer": "false: standard limit is 260 characters"
     },
     {
         "question": "True or False: MBR style Partitioning Scheme is limited to 4 Primary Partitions.", 
@@ -68,7 +68,7 @@
         "answer": true
     },
     {
-	    "question": "True or False: The prompt 'C:\Windows\System32' will be displayed if accessing the command prompt as an administrator.",
+	    "question": "True or False: The prompt 'C:\\Windows\\System32' will be displayed if accessing the command prompt as an administrator.",
 	    "answer": true
     },
     {
