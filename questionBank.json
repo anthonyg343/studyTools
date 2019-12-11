@@ -74,5 +74,78 @@
     {
 	    "question": "What is the native Windows Command Prompt command to list files and directories?",
 	    "answer": "DIR"
-    }
+    },
+	{
+		"question": "How much RAM does Windows 10 (64 bit) need?",
+		"answer": "> 2 GB"
+	},
+	{
+		"question": "How much HDD space does Windows 10 (x64) need?",
+		"answer": "20 GB free space"
+	},
+	{
+		"question": "What's the shittiest processor you can use with Windows 10 (x64)?",
+		"answer": "1 GHz CPU with support for PAE, NX, and SSE2"
+	},
+	{
+		"question": "How much RAM does Windows 10 (x86) need?",
+		"answer": "> 1 GB"
+	},
+	{
+		"question": "How much HDD space does Windows 10 (x86) need?",
+		"answer": "16 GB free space"
+	},
+	{
+		"question": "What's the shittiest processor you can use with Windows 10 (x86)?",
+		"answer": "1 GHz CPU with support for PAE, NX, and SSE2"
+	},
+	{
+		"question": "How much RAM does Windows 8/8.1 (64 bit) need?",
+		"answer": "> 2 GB"
+	},
+	{
+		"question": "How much HDD space does Windows 8/8.1 (x64) need?",
+		"answer": "20 GB free space"
+	},
+	{
+		"question": "What's the shittiest processor you can use with Windows 8/8.1 (x64)?",
+		"answer": "1 GHz CPU with support for PAE, NX, and SSE2"
+	},
+	{
+		"question": "How much RAM does Windows 8/8.1 (x86) need?",
+		"answer": "> 1 GB"
+	},
+	{
+		"question": "How much HDD space does Windows 8/8.1 (x86) need?",
+		"answer": "16 GB free space"
+	},
+	{
+		"question": "What's the shittiest processor you can use with Windows 8/8.1 (x86)?",
+		"answer": "1 GHz CPU with support for PAE, NX, and SSE2"
+	},
+	{
+		"question": "How much RAM does Windows 7 (x86) need?",
+		"answer": "> 1 GB"
+	},
+	{
+		"question": "How much HDD space does Windows 7 (x86) need?",
+		"answer": "16 GB free space"
+	},
+	{
+		"question": "What's the shittiest processor you can use with Windows 7 (x86)?",
+		"answer": "1 GHz CPU"
+	},
+	{
+		"question": "How much RAM does Windows 7 (x64) need?",
+		"answer": "> 2 GB"
+	},
+	{
+		"question": "How much HDD space does Windows 7 (x64) need?",
+		"answer": "20 GB free space"
+	},
+	{
+		"question": "What's the shittiest processor you can use with Windows 7 (x64)?",
+		"answer": "1 GHz CPU"
+	}
+	
 ]
