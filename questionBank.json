@@ -146,6 +146,18 @@
 	{
 		"question": "What's the shittiest processor you can use with Windows 7 (x64)?",
 		"answer": "1 GHz CPU"
+	},
+	{
+		"question": "True or False: the memory management feature for the x86 architecutre allowing CPUs to access more than 4GB of ram is called Physical Address Extension, or PAE",
+		"answer": true
+	},
+	{
+		"question": "How does the NX bit work?",
+		"answer": "This bit is used to mark certain areas of memory as non-executable. The processor will then refuse to execute any code in these areas.  Primary application is preventing takeover from malicious software."
+	},
+	{
+		"question": "True or False: Processors that support PAE, NX, and SSE2 are required for every version of Windows AFTER 7",
+		"answer": true
 	}
 	
 ]
