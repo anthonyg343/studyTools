@@ -180,8 +180,19 @@
         "answer": "false, not available in home additions."
     },
     {
-        "question": "A means for developers to link software applications and leverage windows services is called the, what?" + System.Environment.NewLine + "An example is embedding an excel table into word.",
+        "question": "A means for developers to link software applications and leverage windows services is called the, what? \n An example is embedding an excel table into word.",
         "answer": "Compontent Object Model."
-    }
-	
+    },
+    {
+        "question": "True or False: Enabeling remote assistance on a windows computer requires enabeling Remote Desktop.",
+        "answer": "False - Remote Assistance requires consent at connection, remote desktop opens up to connections anytime."
+    },
+    {
+        "question": "Counter logs saved from the Performance Monitor do what?",
+        "answer": "Collect statistics about resources that can determine system health and performance."
+    },
+    {
+        "question": "Trace logs saved from the Performance Monitor do what?",
+        "answer": "Collect statistics about services, providing detailed reports about resource behavior.  Think of as an extension to the Event Viewer."
+    }	
 ]
