@@ -158,6 +158,30 @@
 	{
 		"question": "True or False: Processors that support PAE, NX, and SSE2 are required for every version of Windows AFTER 7",
 		"answer": true
-	}
+	},
+	{
+        "question": "True or False: 64 bit shared files are in the system32 folder of a 64 bit system, while 32 bit are stored in the syswow64 folder.",
+        "answer": true
+    },
+    {
+        "question": "Policies, including automatic program installation, can be set for a group of computers on a domain using what?",
+        "answer": "GPOs, or Group Policy Objects"
+    },
+    {
+        "question": "Windows Universal Apps are different than traditional programs in what ways?",
+        "answer": "They run in a restrictive sandbox preventing system wide changes, meaning a standard account can install."
+    },
+    {
+        "question": "A Windows process that does not require any sort of user interaction, and thus runs in the background, is called a what?",
+        "answer": "a service"
+    },
+    {
+        "question": "True or False: Print Management as an administrative tool is available in all versions of Windows 10.",
+        "answer": "false, not available in home additions."
+    },
+    {
+        "question": "A means for developers to link software applications and leverage windows services is called the, what?" + System.Environment.NewLine + "An example is embedding an excel table into word.",
+        "answer": "Compontent Object Model."
+    }
 	
 ]
