@@ -194,5 +194,21 @@
     {
         "question": "Trace logs saved from the Performance Monitor do what?",
         "answer": "Collect statistics about services, providing detailed reports about resource behavior.  Think of as an extension to the Event Viewer."
-    }	
+    },
+	{
+		"question": "Which log in the Event Viewer contains information about service load failures, hardware conflicts, driver load failures, and so on?",
+		"answer": "the System Log"
+	},
+	{
+		"question": "Which log in the Event Viewer contains the audit data for the system?",
+		"answer": "the Security Log"
+	},
+	{
+		"question": "Which log in the Event Viewer contains information regarding application errors?",
+		"answer": "the Application Log"
+	},
+	{
+		"question": "Which log in the Event Viewer contains records of events generated during installations?",
+		"answer": "the Setup Log"
+	}	
 ]
